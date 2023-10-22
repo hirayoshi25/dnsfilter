@@ -1,2 +1,5 @@
 ||obs.line-scdn.net^
 ||search.line.me^
+||scdn.line-apps.com^
+||a.line.me^
+
