@@ -4,4 +4,5 @@
 @@||stickershop.line-scdn.net^$app=jp.naver.line.android
 @@||stickershop.line.me^$app=jp.naver.line.android
 @@||shop.line-scdn.net^$app=jp.naver.line.android
+@@||themeshop.lime.me^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
