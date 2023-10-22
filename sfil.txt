@@ -3,7 +3,7 @@
 ||search.line.me^
 ||a.line.me^
 ||scdn.line-apps.com^
-||ch-new.line-apps.com^
+||ch-news.line-apps.com^
 ||uts-front.line-apps.com^
 ||gwx.line.naver.jp^
 ||gw.line.naver.jp^
