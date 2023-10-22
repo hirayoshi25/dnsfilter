@@ -5,4 +5,7 @@
 @@||stickershop.line.me^$app=jp.naver.line.android
 @@||shop.line-scdn.net^$app=jp.naver.line.android
 @@||themeshop.line.me^$app=jp.naver.line.android
+@@||jp-col-tcp.nelo.linecorp.com^$app=jp.naver.line.android
+@@||utf-front.line-apps.com^$app=jp.naver.line.android
+@@||sentry-uit.line-apps.com^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
