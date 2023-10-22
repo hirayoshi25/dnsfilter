@@ -10,3 +10,6 @@
 @@||sentry-uit.line-apps.com^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
+@@||content-snow-api.snow.me^$app=com.campmobile.snow
+@@||h5-web.snow.me^$app=com.campmobile.snow
+||*^$app=com.campmobile.snow
