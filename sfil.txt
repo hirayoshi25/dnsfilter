@@ -11,5 +11,9 @@
 @@||api.line.me^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
 @@||content-snow-api.snow.me^$app=com.campmobile.snow
-@@||h5-web.snow.me^$app=com.campmobile.snow
+@@||snow-h5-web.pstatic.net^$app=com.campmobile.snow
+@@||content-static.pstatic.net^$app=com.campmobile.snow
+@@||ugc-snow-api.snow.me^$app=com.campmobile.snow
+@@||b6s-api.snow.me^$app=com.campmobile.snow
+@@||^snow.me^$app=com.campmobile.snow
 ||*^$app=com.campmobile.snow
