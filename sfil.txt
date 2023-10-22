@@ -10,8 +10,8 @@
 @@||sentry-uit.line-apps.com^$app=jp.naver.line.android
 @@||api.line.me^$app=jp.naver.line.android
 @@||w.line.me^$app=jp.naver.line.android
-@@||liffsdk.line-scdn.net^app=jp.naver.line.android
-@@||lgw.line-scdn.net^app=jp.naver.line.android
+@@||liffsdk.line-scdn.net^$app=jp.naver.line.android
+@@||lgw.line-scdn.net^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
 @@||content-snow-api.snow.me^$app=com.campmobile.snow
 @@||snow-h5-web.pstatic.net^$app=com.campmobile.snow
