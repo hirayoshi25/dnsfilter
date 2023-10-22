@@ -1,5 +1,10 @@
 ||obs.line-scdn.net^
+||vos.line-scdn.net^
 ||search.line.me^
-||scdn.line-apps.com^
 ||a.line.me^
-
+||scdn.line-apps.com^
+||ch-new.line-apps.com^
+||uts-front.line-apps.com^
+||gwx.line.naver.jp^
+||gw.line.naver.jp^
+||jp-col-tcp.nelo.linecorp.com^
