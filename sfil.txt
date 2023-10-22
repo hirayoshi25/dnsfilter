@@ -8,4 +8,5 @@
 @@||jp-col-tcp.nelo.linecorp.com^$app=jp.naver.line.android
 @@||uts-front.line-apps.com^$app=jp.naver.line.android
 @@||sentry-uit.line-apps.com^$app=jp.naver.line.android
+@@||api.line.me^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
