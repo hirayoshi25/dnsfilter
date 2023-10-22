@@ -8,3 +8,4 @@
 ||gwx.line.naver.jp^
 ||gw.line.naver.jp^
 ||jp-col-tcp.nelo.linecorp.com^
+||h5-web.snow.me^
