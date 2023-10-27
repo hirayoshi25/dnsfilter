@@ -15,6 +15,7 @@
 @@||obs-jp.line-apps.com^$app=jp.naver.line.android
 @@||yuki-cdn.line-apps.com^$app=jp.naver.line.android
 @@||static.line-scdn.net^$app=jp.naver.line.android
+@@||profile.line-scdn.net^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
 @@||content-snow-api.snow.me^$app=com.campmobile.snow
 @@||snow-h5-web.pstatic.net^$app=com.campmobile.snow
