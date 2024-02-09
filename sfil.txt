@@ -17,6 +17,7 @@
 @@||static.line-scdn.net^$app=jp.naver.line.android
 @@||profile.line-scdn.net^$app=jp.naver.line.android
 @@||obs.line-scdn.net^$app=jp.naver.line.android
+@@||poll-obs.line-scdn.net^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
 @@||content-snow-api.snow.me^$app=com.campmobile.snow
 @@||snow-h5-web.pstatic.net^$app=com.campmobile.snow
