@@ -28,6 +28,9 @@
 @@||user-snow-api.snow.me^$app=com.campmobile.snow
 @@||popup-api.snow.me^$app=com.campmobile.snow
 ||*^$app=com.campmobile.snow
+@@||yt3.googleusercontent.com^$app=com.google.android.youtube
+@@||yt3.ggpht.com^$app=com.google.android.youtube
+@@||redirector.googlevideo.com^$app=com.google.android.youtube
 @@||firebaseinstallations.googleapis.com^$app=com.google.android.youtube
 @@||youtubei.googleapis.com^$app=com.google.android.youtube
 @@||www.youtube.com/@SnowMan.official.9^$app=com.google.android.youtube
