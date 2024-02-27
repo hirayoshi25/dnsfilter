@@ -28,7 +28,6 @@
 @@||user-snow-api.snow.me^$app=com.campmobile.snow
 @@||popup-api.snow.me^$app=com.campmobile.snow
 ||*^$app=com.campmobile.snow
-@@||*.googlevideo.com^$app=com.google.android.youtube
 @@||yt3.googleusercontent.com^$app=com.google.android.youtube
 @@||yt3.ggpht.com^$app=com.google.android.youtube
 @@||redirector.googlevideo.com^$app=com.google.android.youtube
