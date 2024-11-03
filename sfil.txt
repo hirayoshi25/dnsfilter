@@ -37,3 +37,4 @@
 @@||youtubei.googleapis.com^$app=com.google.android.youtube
 @@||www.youtube.com/@SnowMan.official.9^$app=com.google.android.youtube
 ||*^$app=com.google.android.youtube
+||myaccount.google.com^$app=com.google.android.gms
