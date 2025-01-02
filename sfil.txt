@@ -20,7 +20,7 @@
 @@||poll-obs.line-scdn.net^$app=jp.naver.line.android
 @@||legy-jp.line-apps.com^$app=jp.naver.line.android
 @@||legy-backup.line-apps.com^$app=jp.naver.line.android
-@@||linecrs.line-scdn.com^$app=jp.naver.line.android
+@@||linecrs.line-scdn.net^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
 @@||content-snow-api.snow.me^$app=com.campmobile.snow
 @@||snow-h5-web.pstatic.net^$app=com.campmobile.snow
