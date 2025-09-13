@@ -24,6 +24,7 @@
 @@||user-profile.line-scdn.net^$app=jp.naver.line.android
 @@||themeshop-liff-v2-release.landpress.line.me^$app=jp.naver.line.android
 @@||friendquiz.me^$app=jp.naver.line.android
+@@||voom-obs.line-scdn.net^$app=jp.naver.line.android
 ||*^$app=jp.naver.line.android
 @@||content-snow-api.snow.me^$app=com.campmobile.snow
 @@||snow-h5-web.pstatic.net^$app=com.campmobile.snow
